@@ -1,3 +1,9 @@
-* {
+h1 {
   color: black;
+  font-size: 100px;
+}
+
+p {
+  color: green;
+  font-family: Verdana;
 }
