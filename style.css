@@ -8,7 +8,7 @@ p {
   font-family: Verdana;
 }
 
-body p:nth-child(2){
+#dad {
   font-size: 50px;
   font-family: cursive;
 }
